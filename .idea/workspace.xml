@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3a99d08-866b-43a8-83e5-b2a17be235b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="aigou_parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\IDE\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Za6FalJnZo9WOXMqEoPRE4rwCa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ruoyi" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.44712645" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDE\OpenSource\aigou_parent\plat_parent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PlatServiceApplication_8001">
+    <configuration name="AjaxResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.cloudcc.aigou.util.AjaxResult" />
+      <module name="basic_util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cloudcc.aigou.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer_7001 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka_server_7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cloudcc.aigou.aigou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloudcc.aigou.aigou.EurekaServer_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka_server_7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cloudcc.aigou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloudcc.aigou.EurekaServer_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatServiceApplication_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="plat_service_8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cloudcc.aigou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloudcc.aigou.PlatServiceApplication_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGeteWayApplication_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zuul_gateway_9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cloudcc.aigou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloudcc.aigou.ZuulGeteWayApplication_9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ZuulGeteWayApplication_9527" />
+        <item itemvalue="Spring Boot.PlatServiceApplication_8001" />
+        <item itemvalue="Spring Boot.EurekaServer_7001 (1)" />
+        <item itemvalue="Spring Boot.EurekaServer_7001" />
+        <item itemvalue="Application.AjaxResult" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3a99d08-866b-43a8-83e5-b2a17be235b8" name="Default Changelist" comment="" />
+      <created>1585064754281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585064754281</updated>
+      <workItem from="1585064757763" duration="824000" />
+      <workItem from="1585143724271" duration="2653000" />
+      <workItem from="1585148060274" duration="1548000" />
+      <workItem from="1585230564197" duration="7515000" />
+      <workItem from="1585312546603" duration="142000" />
+      <workItem from="1585369019284" duration="3603000" />
+      <workItem from="1585378714800" duration="8396000" />
+      <workItem from="1585397741297" duration="4172000" />
+      <workItem from="1585402285532" duration="8914000" />
+      <workItem from="1585474036039" duration="4180000" />
+      <workItem from="1585534902550" duration="1284000" />
+      <workItem from="1585917446300" duration="585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" width="814" height="680" key="#Intentions" timestamp="1585235783937">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" width="814" height="680" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1585235783937" />
+    <state x="233" y="3" key="#Project_Structure" timestamp="1585452056876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1585452056876" />
+    <state x="446" y="34" key="#com.intellij.ide.util.MemberChooser" timestamp="1585237069486">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="34" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585237069486" />
+    <state x="329" y="112" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585403432867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="329" y="112" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1585403432867" />
+    <state x="544" y="0" width="438" height="575" key="FileChooserDialogImpl" timestamp="1585482799290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="544" y="0" width="438" height="575" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585482799290" />
+    <state width="1237" height="312" key="GridCell.Tab.0.bottom" timestamp="1585452256644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="312" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
+    <state width="1237" height="312" key="GridCell.Tab.0.center" timestamp="1585452256643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="312" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585452256643" />
+    <state width="1237" height="312" key="GridCell.Tab.0.left" timestamp="1585452256643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="312" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585452256643" />
+    <state width="1237" height="312" key="GridCell.Tab.0.right" timestamp="1585452256644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="312" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
+    <state width="1237" height="312" key="GridCell.Tab.1.bottom" timestamp="1585452256644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="312" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
+    <state width="1237" height="312" key="GridCell.Tab.1.center" timestamp="1585452256644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="312" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
+    <state width="1237" height="312" key="GridCell.Tab.1.left" timestamp="1585452256644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="312" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
+    <state width="1237" height="312" key="GridCell.Tab.1.right" timestamp="1585452256644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="312" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
+    <state x="63" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1585480391997">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="63" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585480391997" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1585917755414">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585917755414" />
+    <state x="56" y="72" key="new project wizard" timestamp="1585391404578">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="72" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585391404578" />
+  </component>
+</project>
