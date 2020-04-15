@@ -1,2 +1,3 @@
 cn\cloudcc\aigou\controller\LoginController.class
+cn\cloudcc\aigou\config\Swagger2.class
 cn\cloudcc\aigou\PlatServiceApplication_8001.class

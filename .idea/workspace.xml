@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3a99d08-866b-43a8-83e5-b2a17be235b8" name="Default Changelist" comment="" />
+    <list default="true" id="a3a99d08-866b-43a8-83e5-b2a17be235b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config_server_8848/config_server_8848.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config_server_8848/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config_server_8848/src/main/java/cn/cloudcc/aigou/ConfigServerApplication_8848.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config_server_8848/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/target/basic_util-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/basic_parent/basic_util/target/basic_util-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/basic_parent/basic_util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server_7001/target/eureka_server_7001-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server_7001/target/eureka_server_7001-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server_7001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server_7001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/plat_service_8001-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/plat_service_8001-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/cn/cloudcc/aigou/config/DocumentationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/cn/cloudcc/aigou/config/DocumentationConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/zuul_gateway_9527-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/zuul_gateway_9527-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +51,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,16 +64,21 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1Za6FalJnZo9WOXMqEoPRE4rwCa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -49,12 +87,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ruoyi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.44712645" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -62,15 +100,15 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.PlatServiceApplication_8001">
-    <configuration name="AjaxResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.cloudcc.aigou.util.AjaxResult" />
-      <module name="basic_util" />
+    <configuration name="ConfigServerApplication_8848" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config_server_8848" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.cloudcc.aigou.util.*" />
+          <option name="PATTERN" value="cn.cloudcc.aigou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloudcc.aigou.ConfigServerApplication_8848" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ZuulGeteWayApplication_9527" />
         <item itemvalue="Spring Boot.PlatServiceApplication_8001" />
+        <item itemvalue="Spring Boot.ZuulGeteWayApplication_9527" />
+        <item itemvalue="Spring Boot.ConfigServerApplication_8848" />
         <item itemvalue="Spring Boot.EurekaServer_7001 (1)" />
         <item itemvalue="Spring Boot.EurekaServer_7001" />
-        <item itemvalue="Application.AjaxResult" />
       </list>
     </recent_temporary>
   </component>
@@ -170,22 +208,35 @@
       <workItem from="1585402285532" duration="8914000" />
       <workItem from="1585474036039" duration="4180000" />
       <workItem from="1585534902550" duration="1284000" />
-      <workItem from="1585917446300" duration="585000" />
+      <workItem from="1585917446300" duration="1590000" />
+      <workItem from="1585919244511" duration="21000" />
+      <workItem from="1585919302899" duration="155000" />
+      <workItem from="1585919462370" duration="726000" />
+      <workItem from="1586006052903" duration="842000" />
+      <workItem from="1586572283744" duration="808000" />
+      <workItem from="1586707072853" duration="105000" />
+      <workItem from="1586782946363" duration="1360000" />
+      <workItem from="1586784410939" duration="5811000" />
+      <workItem from="1586790605212" duration="1596000" />
+      <workItem from="1586912018331" duration="1261000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" width="814" height="680" key="#Intentions" timestamp="1585235783937">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" width="814" height="680" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1585235783937" />
-    <state x="233" y="3" key="#Project_Structure" timestamp="1585452056876">
+    <state x="233" y="3" key="#Project_Structure" timestamp="1586792068239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1585452056876" />
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1586792068239" />
     <state x="446" y="34" key="#com.intellij.ide.util.MemberChooser" timestamp="1585237069486">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -194,53 +245,53 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="329" y="112" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1585403432867" />
-    <state x="544" y="0" width="438" height="575" key="FileChooserDialogImpl" timestamp="1585482799290">
+    <state x="544" y="0" width="438" height="575" key="FileChooserDialogImpl" timestamp="1586572596175">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="544" y="0" width="438" height="575" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585482799290" />
-    <state width="1237" height="312" key="GridCell.Tab.0.bottom" timestamp="1585452256644">
+    <state x="544" y="0" width="438" height="575" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586572596175" />
+    <state width="1237" height="323" key="GridCell.Tab.0.bottom" timestamp="1586792207629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="312" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
-    <state width="1237" height="312" key="GridCell.Tab.0.center" timestamp="1585452256643">
+    <state width="1237" height="323" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586792207629" />
+    <state width="1237" height="323" key="GridCell.Tab.0.center" timestamp="1586792207629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="312" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585452256643" />
-    <state width="1237" height="312" key="GridCell.Tab.0.left" timestamp="1585452256643">
+    <state width="1237" height="323" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586792207629" />
+    <state width="1237" height="323" key="GridCell.Tab.0.left" timestamp="1586792207629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="312" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585452256643" />
-    <state width="1237" height="312" key="GridCell.Tab.0.right" timestamp="1585452256644">
+    <state width="1237" height="323" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586792207629" />
+    <state width="1237" height="323" key="GridCell.Tab.0.right" timestamp="1586792207629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="312" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
-    <state width="1237" height="312" key="GridCell.Tab.1.bottom" timestamp="1585452256644">
+    <state width="1237" height="323" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586792207629" />
+    <state width="1237" height="323" key="GridCell.Tab.1.bottom" timestamp="1586792207629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="312" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
-    <state width="1237" height="312" key="GridCell.Tab.1.center" timestamp="1585452256644">
+    <state width="1237" height="323" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586792207629" />
+    <state width="1237" height="323" key="GridCell.Tab.1.center" timestamp="1586792207629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="312" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
-    <state width="1237" height="312" key="GridCell.Tab.1.left" timestamp="1585452256644">
+    <state width="1237" height="323" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586792207629" />
+    <state width="1237" height="323" key="GridCell.Tab.1.left" timestamp="1586792207629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="312" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
-    <state width="1237" height="312" key="GridCell.Tab.1.right" timestamp="1585452256644">
+    <state width="1237" height="323" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586792207629" />
+    <state width="1237" height="323" key="GridCell.Tab.1.right" timestamp="1586792207629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="312" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585452256644" />
-    <state x="63" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1585480391997">
+    <state width="1237" height="323" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586792207629" />
+    <state x="63" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1586707124556">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="63" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585480391997" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1585917755414">
+    <state x="63" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586707124556" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1586912019964">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585917755414" />
-    <state x="56" y="72" key="new project wizard" timestamp="1585391404578">
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586912019964" />
+    <state x="369" y="51" width="621" height="515" key="new project wizard" timestamp="1586912385536">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="56" y="72" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585391404578" />
+    <state x="369" y="51" width="621" height="515" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586912385536" />
   </component>
 </project>
